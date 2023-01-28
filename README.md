@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently working on **SYNC Intern Tasks**
 
-- 🌱 I’m currently learning **Flutter and Firebase**
+- 🌱 I’m currently learning *Java*
 
-- 👯 I’m looking to collaborate on **Flutter Application Development **
-
-- 💬 Ask me about **C++, Java, Flutter, Dart, Firebase**
+- 💬 Ask me about **C, C++, Java**
 
 - 📫 How to reach me **Ping me on LinkedIn**
 
