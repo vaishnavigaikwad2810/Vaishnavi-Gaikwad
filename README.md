@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Gaikwad</h1>
-<h3 align="center">MKSSS's Cummins College of Engineering for Women , Pune</h3>
+<h3 align="center">Student at MKSSS's Cummins College of Engineering for Women , Pune</h3>
 
 
 - 🔭 I’m currently working on **my DSA skills**
