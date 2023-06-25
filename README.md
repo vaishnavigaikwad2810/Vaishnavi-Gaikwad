@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Gaikwad</h1>
-<h3 align="center">Student at Pune Institute Of Computer Technology</h3>
+<h3 align="center">MKSSS's Cummins College of Engineering for Women , Pune</h3>
 
 
-- 🔭 I’m currently working on **SYNC Intern Tasks**
+- 🔭 I’m currently working on **my DSA skills**
 
 - 🌱 I’m currently learning *Java*
 
