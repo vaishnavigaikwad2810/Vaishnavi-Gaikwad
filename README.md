@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *Java*
 
-- 💬 Ask me about **C, C++, Java**
+- 💬 Ask me about ** Java**
 
 - 📫 How to reach me **Ping me on LinkedIn**
 
